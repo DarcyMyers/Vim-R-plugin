@@ -1,3 +1,8 @@
+Setting the master branch to the last tag that worked with Vim 7.3 for easy install with Vundle.
+
+Do not use for development! This is not the most recent plugin version.
+________________________________________________________________________
+
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=2628
 
 This plugin improves Vim's support for editing R code and makes it possible to integrate Vim with R. The functionality is similar to what you can find in Tinn-R and ESS mode of Emacs. This filetype plugin uses either tmux or screen with the Screen plugin (Linux, OS X, or other Unix, vimscript #2711) or Python (Microsoft Windows) or Apple Script (Mac OS X) to communicate with R. 
